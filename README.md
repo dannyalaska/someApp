@@ -1,2 +1,3 @@
 # someApp
-my first ionic app using angularjs 
+my first ionic app using angularjs and cordova
+ 
